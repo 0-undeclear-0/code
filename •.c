@@ -5,4 +5,3 @@ typedef struct node{
 	char address[20];
 	struct node*next;
 }Node,*linklist;
-
